@@ -15,6 +15,5 @@ Store general-purpose utilities here, such as:
 
 ```python
 from utils.constants import WAVELENGTH_RED_LASER
-from utils.plotting import set_scientific_style
-from utils.file_io import load_experiment_data
+from utils.plotting import set_scientific_style, save_figure
 ```

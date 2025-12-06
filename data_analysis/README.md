@@ -14,6 +14,5 @@ Store reusable analysis functions and scripts here, such as:
 
 Import these utilities in your experiment scripts:
 ```python
-from data_analysis.fitting import gaussian_fit
-from data_analysis.processing import smooth_data
+from data_analysis.fitting import fit_gaussian, linear_fit
 ```
