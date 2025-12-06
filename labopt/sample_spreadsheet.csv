@@ -1,0 +1,5 @@
+
+wavelength_nm,alpha_deg,sigma_alpha_deg,path_length_cm,conc_g_per_mL,alpha_pure_deg_per_dm_per_1g_per_mL,sigma_alpha_pure_deg,path_length_dm,conc_g_per_mL_used,ee_percent,sigma_ee_percent
+589,6.647,0.010,10.0,0.10,66.47,0.05,1.0,0.10,100.0,1.50
+632.8,5.80,0.012,10.0,0.10,60.0,0.10,1.0,0.10,96.6667,2.00
+
